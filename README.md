@@ -1,22 +1,23 @@
-<h1 align="center">Hi 👋, I'm Luan Vitor</h1>
-<h3 align="center">I'm a Computer Science Studying and PYTHON Developer.</h3>
+# Luan Vitor
+Ola meu nome é luan,sou formado em tecnico em administração pela [![GRAU Técnico](https://img.shields.io/badge/GRAU_Técnico-green)](https://www.grautecnico.com.br), atualmente estudo python pela [![dio](https://img.shields.io/badge/dio-white)](https://www.dio.me), e cursando Ciencias da Computação na [![Estácio](https://img.shields.io/badge/Estácio-blue)](https://estacio.br). 
 
-- 🔭 I’m currently working on **with graphic design.**
+## Habilidades e Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 🌱 I’m currently learning **Python**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-- 📫 How to reach me **lv633518@gmail.com**
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luan-vitor-333386236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luan-vitor-333386236/" height="30" width="40" /></a>
-</p>
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.iteindia.in/wp-content/uploads/2018/08/Python.jpg" alt="python" width="40" height="40"/>
+## Entre em contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Luan-Vitor-333386236/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanVitor0)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:iv6335994@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvitor0&show_icons=true&locale=en&layout=compact" alt="luanvitor0" /></p>
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanVitor0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuanVitor0&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luanvitor0&show_icons=true&locale=en" alt="luanvitor0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luanvitor0&" alt="luanvitor0" /></p>
+## Minhas contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanVitor0&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuanVitor0/dio-lab-open-source)
